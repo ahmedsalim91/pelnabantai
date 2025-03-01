@@ -12,10 +12,10 @@ PB INSTA is a tool designed for automating tasks related to Instagram. This repo
 
 ## Installation
 1. Download the PB INSTA package from the link above.
-2. Download `galis.json` and place it in the same folder as exe file.
+2. Download `galis.json` and `paths.json` and place it in the same folder as exe file.
 
 ## Usage
-1. Ensure `galis.json` and 'temp.json' are placed at same folder in which pb-insta.exe is located.
+1. Ensure `paths.json` is placed at same folder in which pb-insta.exe is located, and is configured according to your paths.
 2. Open the the PB INSTA folder.
 3. Run the executable provided.
 4. Follow the on-screen instructions to use the tool.
@@ -24,8 +24,8 @@ PB INSTA is a tool designed for automating tasks related to Instagram. This repo
 - Stable internet connection
 - Proper Instagram credentials (if applicable)
 - Google Chrome Must be installed
-- chromedriver.exe must be placed at C:/
-- Put galis.json and temp.json in the same folder as the PB-insta tool
+- chromedriver.exe path must be entered in paths.json
+- Put galis.json and temp.json in the same folder as the PB-insta tool and enter the path of these files in paths.json
 
 ## Disclaimer
 This tool is intended for educational and personal use only. Use it responsibly and ensure compliance with Instagram's terms of service.
