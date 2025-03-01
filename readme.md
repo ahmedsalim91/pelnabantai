@@ -4,24 +4,24 @@
 PB INSTA is a tool designed for automating tasks related to Instagram. This repository contains the necessary setup files and configuration data for running the PB INSTA script.
 
 ## Files
-- **[PB Setup](https://www.mediafire.com/file/hz7bxz6evwmsrgj/PB+-+INSTA.zip/file)**: The main setup package required to install and configure PB INSTA.
-- **[galis.json](https://github.com/user-attachments/files/18332897/galis.json)**: Configuration file containing necessary parameters and settings.
+- **[PB Setup]([https://www.mediafire.com/file/hz7bxz6evwmsrgj/PB+-+INSTA.zip/file](https://www.mediafire.com/file/1kkhmx8q4grr94f/PB+-+Insta+(v1).exe/file))**: The main package required to use and configure PB INSTA.
+- **[galis.json](https://github.com/user-attachments/files/18332897/galis.json)**: Configuration file containing my default CP.
 
 ## Installation
-1. Download the PB INSTA setup package from the link above.
-2. Extract the ZIP file to your preferred location.
-3. Download `galis.json` and place it in the extracted folder.
+1. Download the PB INSTA package from the link above.
+2. Download `galis.json` and place it in the same folder as exe file.
 
 ## Usage
-1. Open the extracted PB INSTA folder.
-2. Run the setup script or executable provided.
+1. Open the the PB INSTA folder.
+2. Run the executable provided.
 3. Ensure `galis.json` is properly configured.
-4. Follow the on-screen instructions to complete the setup.
+4. Follow the on-screen instructions to use the tool.
 
 ## Requirements
-- Python (if required by the script)
 - Stable internet connection
 - Proper Instagram credentials (if applicable)
+- Google Chrome Must be installed
+- chromedriver.exe must be placed at C:/
 
 ## Disclaimer
 This tool is intended for educational and personal use only. Use it responsibly and ensure compliance with Instagram's terms of service.
