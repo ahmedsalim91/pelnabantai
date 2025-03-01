@@ -24,6 +24,7 @@ PB INSTA is a tool designed for automating tasks related to Instagram. This repo
 - Proper Instagram credentials (if applicable)
 - Google Chrome Must be installed
 - chromedriver.exe must be placed at C:/
+- Put galis.json and temp.json in the same folder as the PB-insta tool
 
 ## Disclaimer
 This tool is intended for educational and personal use only. Use it responsibly and ensure compliance with Instagram's terms of service.
