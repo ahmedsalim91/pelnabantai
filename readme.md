@@ -1,4 +1,4 @@
-# PB INSTA Setup
+# PB - INSTA TOOL
 
 ## Description
 PB INSTA is a tool designed for automating tasks related to Instagram. This repository contains the necessary setup files and configuration data for running the PB INSTA script.
