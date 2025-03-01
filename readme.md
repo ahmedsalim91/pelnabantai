@@ -4,7 +4,8 @@
 PB INSTA is a tool designed for automating tasks related to Instagram. This repository contains the necessary setup files and configuration data for running the PB INSTA script.
 
 ## Files
-- **[PB Setup](https://www.mediafire.com/file/1kkhmx8q4grr94f/PB+-+Insta+(v1).exe/file)**: The main package required to use and configure PB INSTA.
+- **[PB Setup](https://www.mediafire.com/file/1va92ihnjsykx8i/PB+-+Insta+(basic).exe/file)**: The main package required to use and configure PB INSTA.
+- **[paths.json](https://www.mediafire.com/file/qgzdg8ta1g6ubxi/paths.json/file)**: Configuration file for paths.
 - **[galis.json](https://github.com/user-attachments/files/18332897/galis.json)**: Configuration file containing my default CP.
 - **[Assigner Tool](https://github.com/ahmedsalim91/ABUSER/releases/download/v4.0/assigner4all.exe)**: To generate temp.json for the enemies names.
 
