@@ -14,9 +14,9 @@ PB INSTA is a tool designed for automating tasks related to Instagram. This repo
 2. Download `galis.json` and place it in the same folder as exe file.
 
 ## Usage
-1. Open the the PB INSTA folder.
-2. Run the executable provided.
-3. Ensure `galis.json` is properly configured.
+1. Ensure `galis.json` and 'temp.json' are placed at same folder in which pb-insta.exe is located.
+2. Open the the PB INSTA folder.
+3. Run the executable provided.
 4. Follow the on-screen instructions to use the tool.
 
 ## Requirements
